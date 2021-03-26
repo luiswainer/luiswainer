@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luiswainer
-- 👀 I’m interested in Web Applications, Maintenance and System Managing Databases, and Machine Learning.
+- 👀 I’m interested in Web Applications, Databases, and Machine Learning.
 - 🌱 I’m currently learning all of the above, after being a frustrated Web Surfer, Maintenance Manager, and Machine Learning for almost a decade.
 - 💞️ I’m looking to collaborate, yes
 - 📫 How to reach me: mailto:luiswainer@setupmyserver.com
